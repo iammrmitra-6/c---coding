@@ -7,11 +7,11 @@ int main() {
     cin>> n;
     if(n%2==0)
     {
-        cout <<"even number";
+        cout <<"even number"<<endl;
     }
     else
     {
-        cout <<"odd number";
+        cout <<"odd number"<<endl;
     }
     return 0;
 }
